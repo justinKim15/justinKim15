@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Justin</h1>
 <h3 align="center">A rising cybersecurity major from Rochester Institute of Technology</h3>
 
+- 🔭 I’m currently working on [a classical ciphers tool app.](https://github.com/justinKim15/classicalCryptography)
+
+- 🌱 I’m currently learning **CompTIA Security+**
+
+- 📫 How to reach me **justjk.cybersec@gmail.com**
+
+- 📄 Know about my experiences [https://justinresume.tiiny.site](https://justinresume.tiiny.site)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
